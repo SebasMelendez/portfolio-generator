@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "this will generate a portfolio generator",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebasMelendez/portfolio-generator.git"
+  },
+  "author": "Melendev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebasMelendez/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/SebasMelendez/portfolio-generator#readme"
 }
