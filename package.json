@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "inquirer": "^8.2.4",
     "nodemon": "^2.0.19"
   },
   "name": "portfolio-generator",
   "version": "1.0.0",
-  "description": "this will generate a portfolio generator",
+  "description": "A portfolio generator on Node!",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
